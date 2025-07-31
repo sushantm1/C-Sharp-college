@@ -25,6 +25,7 @@ namespace Lab_2
         }
         public void p2()
         {
+            Console.WriteLine();
             Console.WriteLine("This is the 2nd program :");
             Console.Write("Please enter Number of Transactions :");
             int n = int.Parse(Console.ReadLine());
@@ -41,6 +42,7 @@ namespace Lab_2
         }
         public void p3()
         {
+            Console.WriteLine();
             Console.WriteLine("This is the 3rd program to find max value in array:");
             Console.Write("Please enter Number of Transactions :");
             int n = int.Parse(Console.ReadLine());
@@ -56,6 +58,7 @@ namespace Lab_2
         }
         public void p4()
         {
+            Console.WriteLine();
             Console.WriteLine("This is the 4th program to find max value in array:");
             Console.Write("Please enter Number of Transactions :");
             int n = int.Parse(Console.ReadLine());
@@ -73,6 +76,7 @@ namespace Lab_2
         }
         public void p5()
         {
+            Console.WriteLine();
             Console.WriteLine("This is the 5th program to find max value in array:");
             Console.Write("Please enter Number of Transactions :");
             int n = int.Parse(Console.ReadLine());
@@ -90,6 +94,7 @@ namespace Lab_2
         }
         public void p6()
         {
+            Console.WriteLine();
             Console.WriteLine("This is the 6th program which multiply emelents with a given factor.");
             Console.Write("Please enter the factor :");
             int factor = int.Parse(Console.ReadLine());
@@ -109,6 +114,7 @@ namespace Lab_2
         }
         public void p7()
         {
+            Console.WriteLine();
             Console.WriteLine("This is the 7th program which find the index of a element.");
             Console.Write("Please enter Number of Transactions :");
             int n = int.Parse(Console.ReadLine());
@@ -127,8 +133,34 @@ namespace Lab_2
         }
         public void p8()
         {
-            Console.WriteLine("This is the 7th program which find the index of a element.");
-            Console.Write("Please enter Number of Transactions :");
+            Console.WriteLine();
+            Console.WriteLine("This is the 8th program which find the second largest element.");
+            Console.Write("Please enter size of array :");
+            int n = int.Parse(Console.ReadLine());
+            int[] arr = new int[n];
+            Console.WriteLine("Please enter the records : ");
+            int large = 0;
+            int secLarge = 0;
+            for (int i = 0; i < n; i++)
+            {
+                arr[i] = int.Parse(Console.ReadLine());
+                if (arr[i] > large)
+                {
+                    secLarge = large;
+                    large = arr[i];
+                }
+                else if (arr[i] > secLarge && arr[i] != large)
+                {
+                    secLarge = arr[i];
+                }
+            }
+            Console.WriteLine($"the second largest element is : {secLarge}");
+        }
+        public void p9()
+        {
+            Console.WriteLine();
+            Console.WriteLine("This is the 9th program which returns distinct elements from a array.");
+            Console.Write("Please enter size of array :");
             int n = int.Parse(Console.ReadLine());
             int[] arr = new int[n];
             Console.WriteLine("Please enter the records : ");
@@ -136,11 +168,36 @@ namespace Lab_2
             {
                 arr[i] = int.Parse(Console.ReadLine());
             }
-            Console.Write("Please enter the factor :");
-            int element = int.Parse(Console.ReadLine());
+            int[] distArray = arr.Distinct().ToArray();
+            for (int i = 0; i < distArray.Length; i++)
+            {
+                Console.Write($"{distArray[i]}, ");
+            }
+        }
+        public void p10()
+        {
+            Console.WriteLine();
+            Console.WriteLine("This is the 10th program which find the comman elements in array.");
+            Console.Write("Please enter size of array :");
+            int n = int.Parse(Console.ReadLine());
+            int[] arr1 = new int[n];
+            int[] arr2 = new int[n];
+            Console.WriteLine("Please enter the records for first array: ");
             for (int i = 0; i < n; i++)
             {
-                if (arr[i] == element) { Console.WriteLine($"the index of the element is {i}"); break; }
+                arr1[i] = int.Parse(Console.ReadLine());
+            }
+            Console.WriteLine("Please enter the records for second array: ");
+            for (int i = 0; i < n; i++)
+            {
+                arr2[i] = int.Parse(Console.ReadLine());
+            }
+            var commonElements = arr1.Intersect(arr2);
+
+            Console.WriteLine("Common elements:");
+            foreach (int value in commonElements)
+            {
+                Console.WriteLine(value);
             }
         }
     }
@@ -150,7 +207,7 @@ namespace Lab_2
         {
             prgms ob1 = new prgms();
             //ob1.p1();
-            ob1.p7();
+            ob1.p10();
         }
     }
 }
