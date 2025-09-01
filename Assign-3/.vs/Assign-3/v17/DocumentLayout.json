@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{4C85EC9F-04BA-45D7-84BF-A517EBF6065C}|Assign-3.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C85EC9F-04BA-45D7-84BF-A517EBF6065C}|Assign-3.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\assign-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4C85EC9F-04BA-45D7-84BF-A517EBF6065C}|Assign-3.csproj|C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\Assign-3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C85EC9F-04BA-45D7-84BF-A517EBF6065C}|Assign-3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,12 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,10 +28,14 @@
               "RelativeDocumentMoniker": "Class1.cs",
               "ToolTip": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\Assign-3\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAYwDkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-14T04:57:36.371Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -47,8 +47,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T04:55:36.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T04:55:36.104Z"
             }
           ]
         }
