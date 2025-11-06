@@ -1,0 +1,6 @@
+C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\Class_Library\bin\Debug\Class_Library.dll
+C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\Class_Library\bin\Debug\Class_Library.pdb
+C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\Class_Library\obj\Debug\Class_Library.csproj.AssemblyReference.cache
+C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\Class_Library\obj\Debug\Class_Library.csproj.CoreCompileInputs.cache
+C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\Class_Library\obj\Debug\Class_Library.dll
+C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\Class_Library\obj\Debug\Class_Library.pdb
