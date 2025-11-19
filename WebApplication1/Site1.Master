@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication1.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <asp:Menu ID="Menu1" runat="server" OnMenuItemClick="Menu1_MenuItemClick" Orientation="Horizontal">
+            <Items>
+                <asp:MenuItem Text="HomePage" Value="HomePage">
+                    <asp:MenuItem Text="DashBoard" Value="DashBoard">
+                        <asp:MenuItem Text="Prime Number" Value="Prime Number"></asp:MenuItem>
+                        <asp:MenuItem Text="Palindrom" Value="Palindrom"></asp:MenuItem>
+                    </asp:MenuItem>
+                </asp:MenuItem>
+            </Items>
+        </asp:Menu>
+    </form>
+</body>
+</html>
