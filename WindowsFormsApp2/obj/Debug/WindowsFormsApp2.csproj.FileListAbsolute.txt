@@ -10,3 +10,4 @@ C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\WindowsFormsAp
 C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\WindowsFormsApp2\obj\Debug\WindowsF.EA766B00.Up2Date
 C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\susha\Desktop\LA\Subjects\sem-3\dot net\lab doc\lab prac\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe.config

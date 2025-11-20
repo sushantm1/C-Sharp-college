@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WindowsFormsApp1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31B36AF0-1226-4ADF-A765-95D00ABF3822}|WindowsFormsApp1.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31B36AF0-1226-4ADF-A765-95D00ABF3822}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31B36AF0-1226-4ADF-A765-95D00ABF3822}|WindowsFormsApp1.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{31B36AF0-1226-4ADF-A765-95D00ABF3822}|WindowsFormsApp1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WindowsFormsApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WindowsFormsApp1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T09:08:42.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",

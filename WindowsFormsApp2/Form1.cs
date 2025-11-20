@@ -26,7 +26,7 @@ namespace WindowsFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            try {
+            (try {
                 int a = int.Parse(textBox1.Text);
                 int b = int.Parse(textBox2.Text);   
 
@@ -35,7 +35,17 @@ namespace WindowsFormsApp2
             }
             catch { 
             label1.Text = "Error";
-            }
+            })
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

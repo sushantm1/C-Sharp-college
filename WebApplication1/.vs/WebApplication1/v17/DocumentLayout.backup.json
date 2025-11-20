@@ -3,27 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37A0018E-7CE2-4261-AEF2-AE8E2793A5D3}|..\\WebApplication2\\WebApplication2.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\webapplication2\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{786FE27D-40D2-4420-B562-B5E22B2BD19C}|..\\WebApplication1inside\\WebApplication1inside.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\webapplication1inside\\webservice1.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\webapplication1\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|solutionrelative:webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\webapplication1\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|solutionrelative:webform1.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\webapplication1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|solutionrelative:webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\webapplication1\\site1.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\site1.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|solutionrelative:site1.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\webapplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
       "RelativeMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|solutionrelative:site1.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|c:\\users\\susha\\desktop\\la\\subjects\\sem-3\\dot net\\lab doc\\lab prac\\webapplication1\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E2BA9F9-4795-444E-A02B-1B5B2A004291}|WebApplication1.csproj|solutionrelative:htmlpage1.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -34,11 +40,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication2\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication2\\WebService1.asmx.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebService1.asmx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:15:48.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WebService1.asmx.cs",
+              "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1inside\\WebService1.asmx.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication1inside\\WebService1.asmx.cs",
+              "ToolTip": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1inside\\WebService1.asmx.cs",
+              "RelativeToolTip": "..\\WebApplication1inside\\WebService1.asmx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T06:01:27.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "WebForm1.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\WebForm1.aspx.designer.cs",
               "RelativeDocumentMoniker": "WebForm1.aspx.designer.cs",
@@ -46,25 +78,24 @@
               "RelativeToolTip": "WebForm1.aspx.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAhwCwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T11:22:47.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T11:22:47.105Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WebForm1.aspx",
               "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\WebForm1.aspx",
               "RelativeDocumentMoniker": "WebForm1.aspx",
-              "ToolTip": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\WebForm1.aspx*",
-              "RelativeToolTip": "WebForm1.aspx*",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "ToolTip": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\WebForm1.aspx",
+              "RelativeToolTip": "WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-11-19T10:26:29.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Site1.Master",
               "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\Site1.Master",
               "RelativeDocumentMoniker": "Site1.Master",
@@ -72,12 +103,11 @@
               "RelativeToolTip": "Site1.Master",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-11-19T10:34:27.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T10:34:27.128Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Site1.Master.designer.cs",
               "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\Site1.Master.designer.cs",
               "RelativeDocumentMoniker": "Site1.Master.designer.cs",
@@ -85,12 +115,11 @@
               "RelativeToolTip": "Site1.Master.designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:35:38.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T10:35:38.003Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "WebForm1.aspx.cs",
               "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\WebForm1.aspx.cs",
               "RelativeDocumentMoniker": "WebForm1.aspx.cs",
@@ -98,12 +127,11 @@
               "RelativeToolTip": "WebForm1.aspx.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAEwBAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-19T10:31:02.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T10:31:02.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "HtmlPage1.html",
               "DocumentMoniker": "C:\\Users\\susha\\Desktop\\LA\\Subjects\\sem-3\\dot net\\lab doc\\lab prac\\WebApplication1\\HtmlPage1.html",
               "RelativeDocumentMoniker": "HtmlPage1.html",
@@ -111,8 +139,7 @@
               "RelativeToolTip": "HtmlPage1.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-11-19T11:10:17.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-19T11:10:17.562Z"
             }
           ]
         }
